@@ -1,2 +1,2 @@
 # projeto-tetris
-criar um jogo de xadrez
+criar um jogo de tetris
